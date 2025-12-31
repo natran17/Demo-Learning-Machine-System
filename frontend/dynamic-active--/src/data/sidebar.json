@@ -1,0 +1,38 @@
+{
+  "favorites": [
+    {
+      "id": 1,
+      "name": "Figma Basic",
+      "icon": "📘"
+    },
+    {
+      "id": 2,
+      "name": "Folder NEW 2024",
+      "icon": "📁"
+    },
+    {
+      "id": 3,
+      "name": "Assignment 101",
+      "icon": "📊"
+    },
+    {
+      "id": 4,
+      "name": "Quiz Figma",
+      "icon": "📝"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Figma basic",
+      "color": "purple",
+      "badge": "📋"
+    },
+    {
+      "id": 2,
+      "name": "Fikri studio",
+      "color": "pink",
+      "active": true
+    }
+  ]
+}

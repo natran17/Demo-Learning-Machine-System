@@ -1,0 +1,33 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "title": "English Work",
+      "category": "Mrs Smith",
+      "students": 21,
+      "edited": "2h ago",
+      "completed": 50,
+      "gradient": "linear-gradient(135deg, #FFE4B5 0%, #FFB347 100%)"
+    },
+    {
+      "id": 2,
+      "title": "Mastering UI Design for Impactful Experiences",
+      "category": "Fundamental",
+      "urgency": "Not Urgent",
+      "assigned": 10,
+      "edited": "2h ago",
+      "completed": 50,
+      "gradient": "linear-gradient(135deg, #87CEEB 0%, #4A90E2 100%)"
+    },
+    {
+      "id": 3,
+      "title": "Where Innovation Meets Design",
+      "category": "Design",
+      "urgency": "Not Urgent",
+      "assigned": 5,
+      "edited": "2h ago",
+      "completed": 0,
+      "gradient": "linear-gradient(135deg, #DDA0DD 0%, #9370DB 100%)"
+    }
+  ]
+}
