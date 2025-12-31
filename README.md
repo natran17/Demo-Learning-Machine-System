@@ -42,4 +42,6 @@ A full-stack Learning Management System (LMS) prototype designed for K-12 educat
 └── README.md
 ```
 
+https://youtu.be/bXlAhM1s1J4
+
 Built by Nathan Tran
